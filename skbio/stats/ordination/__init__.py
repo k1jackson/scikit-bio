@@ -175,6 +175,7 @@ __all__ = [
     "ca",
     "rda",
     "cca",
+    "pca",
     "pcoa",
     "pcoa_biplot",
     "OrdinationResults",
